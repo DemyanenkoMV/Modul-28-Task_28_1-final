@@ -1,5 +1,5 @@
 # параметры для авторизации
 
-valid_email = "amigos2022@list.ru"
-valid_phone = "+79787247679"
-valid_pass = "Tiko1982!"
+valid_email = "ami****@li**.ru"
+valid_phone = "+7978********"
+valid_pass = "Ti******"
